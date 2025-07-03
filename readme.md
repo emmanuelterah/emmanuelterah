@@ -1,7 +1,3 @@
-### Full-Stack Software Engineer & DevOps Specialist    
-
----
-
 ## 👨‍💻 About Me  
 I’m a **Full-Stack Software Engineer** with expertise in **Python (Flask), React, and DevOps (Docker/Kubernetes)**. I architect scalable solutions for high-volume transactions, AI-driven analytics, and PCI-compliant systems, delivering **20–50% efficiency gains** through automation and optimized workflows. Passionate about bridging technical innovation with business impact, I thrive in Agile environments and love mentoring teams.  
 
