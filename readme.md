@@ -1,52 +1,34 @@
-## 👨‍💻 About Me  
-I’m a **Full-Stack Software Engineer** with expertise in **Python (Flask), React, and DevOps (Docker/Kubernetes)**. I architect scalable solutions for high-volume transactions, AI-driven analytics, and PCI-compliant systems, delivering **20–50% efficiency gains** through automation and optimized workflows. Passionate about bridging technical innovation with business impact, I thrive in Agile environments and love mentoring teams.  
+# 👋 Hi, I’m Emmanuel  
+### *Full-Stack Wizard* 🧙‍♂️ | *DevOps Alchemist* ⚗️  
 
----
+📍 **Nairobi, Kenya** | ✉️ **emmanuelterah98@gmail.com**  
 
-## 🛠 Technical Skills  
-**Frontend:** React, React Native, Angular, TypeScript, Tailwind CSS  
-**Backend:** Python (Flask), Node.js, REST/GraphQL APIs  
-**Databases:** PostgreSQL, MongoDB, Redis  
-**DevOps:** Docker, Kubernetes, AWS/Azure, Terraform, Jenkins, CI/CD  
-**Other:** Odoo ERP, Sentry, Metabase, Jira  
+🚀 **I turn coffee into code** and **problems into 99.8% uptime**.  
+- Built AI tools that predict sports stats better than a psychic octopus 🐙.  
+- Processed **$2.1M/month** in payments without breaking a sweat (or PCI rules).  
+- Slashed load times by **40%**—because nobody likes waiting ⌛.  
 
----
+### ⚒️ **Dev Toolbelt**
+**⌨️ Languages & Frameworks**  
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)
 
-## 🚀 Key Achievements  
-- **AI & Analytics:** Boosted sports science data accuracy by **30%** using LLMs at *Scout Global*.  
-- **Payments & Scalability:** Processed **$2.1M+ monthly transactions** with PCI-compliant systems, reducing errors by **65%** (*Kwanza Tukule*).  
-- **Performance Optimization:** Cut page load times by **40%** (Angular) and API latency by **30%** (Redis caching).  
-- **DevOps:** Achieved **99.8% uptime** with cost-efficient auto-scaling (DigitalOcean/Kubernetes).  
-- **Leadership:** Led cross-functional teams to streamline supply chains (**50% efficiency gain**) and CI/CD pipelines.  
+**🛠️ DevOps & Cloud**  
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white)
 
----
+**🗄️ Databases**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)  
 
-## 📌 Featured Projects  
-### 1. **AI-Powered Sports Analytics Dashboard**  
-- Built with **Angular + Flask**, integrated LLMs for data interpretation.  
-- **Results:** 30% higher accuracy, 15% faster stakeholder decisions.  
+📬 **Let’s chat!**  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/...)  
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter)](https://twitter.com/...)  
 
-### 2. **E-Commerce Payment Gateway**  
-- **React + Flask** backend handling 1,500+ daily transactions.  
-- **Key Wins:** PCI compliance, 80% reduction in manual reconciliation.  
-
-### 3. **Supply Chain Mobile App (React Native)**  
-- Real-time GPS tracking cut logistics delays by **20%**.  
-
----
-
-## 📚 Education  
-- **DevOps Engineering** | Moringa School
-- **Software Engineering** | Moringa School
-- **B.Sc Applied Mathematics** | University of Nairobi  
-
----
-
-## 🌟 Soft Skills  
-- **Leadership:** Owned projects from ideation to deployment.  
-- **Collaboration:** Worked with engineers, designers, and stakeholders.  
-- **Problem-Solving:** Innovated under tight deadlines (e.g., 40% query optimization).  
-
----
-
-📫 **Let’s connect!** Open to collaborations, mentorship, and impactful tech challenges.  
+*“Debugging is like being a detective in a crime movie where you’re also the murderer.”* 🔍  
