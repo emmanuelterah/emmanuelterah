@@ -85,7 +85,7 @@ I turn coffee into code ☕ and problems into **99.8% uptime**.
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=emmanuelterah&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <img src="https://github-profile-trophy.vercel.app/?username=emmanuelterah&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=10" alt="GitHub trophies" />
 </p>
 
 ---
