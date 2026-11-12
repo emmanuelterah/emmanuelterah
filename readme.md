@@ -28,6 +28,11 @@ I turn coffee into code ☕ and problems into **99.8% uptime**.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![WebAssembly](https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=webassembly&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -75,6 +80,7 @@ I turn coffee into code ☕ and problems into **99.8% uptime**.
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white)
 
 **🗄️ Databases & ORMs**
 
@@ -123,11 +129,7 @@ I turn coffee into code ☕ and problems into **99.8% uptime**.
 | --- | --- | --- |
 | 🏎️ [**Shpeed**](https://github.com/emmanuelterah/Shpeed) | Open-source F1 race simulator: runs each Grand Prix lap by lap thousands of times and publishes honest win probabilities with a public track record | Python, NumPyro/JAX, DuckDB, FastAPI, React, Vite, GitHub Actions |
 | 🎙️ **Podverb** | Podcast and live-audio platform: Go microservices with live rooms, replays, discovery, payments and trust & safety | Go, gRPC/Connect, Protobuf, PostgreSQL, Redis, LiveKit, Kubernetes (k3s), Istio, Terraform, OpenBao |
-| 🩺 [**VolSum AI**](https://github.com/emmanuelterah/volsum) | AI medical-record summarization and diagnostic dashboard | FastAPI, React, LangChain, OpenAI, Pinecone, spaCy, PostgreSQL, Docker |
-| 🗣️ [**Accent Detector**](https://github.com/emmanuelterah/accent-detector) | Detects English accents (British, American, Australian, Indian) from video | Whisper, PyTorch, Transformers, XGBoost, Streamlit, Docker |
-| 🧱 [**BrickMe**](https://github.com/emmanuelterah/BrickMe) | Real-time collaborative LEGO mosaic builder on a shared 3D canvas | React, Three.js, Node.js, Express, Socket.io, MongoDB, OpenAI |
-| 💼 [**Expense Reimbursement**](https://github.com/emmanuelterah/expense_reimbursement_module) | Odoo module for expense approvals with automatic journal entries and payments | Odoo, Python, XML |
-| 🤖 [**Aurami**](https://github.com/emmanuelterah/Aurami) | Cinematic landing page for a humanoid-robotics brand | Next.js, TypeScript, Three.js |
+| 🎧 **Audivia** | Audio compression engine: bit-exact lossless codec that makes files smaller than FLAC and ALAC, plus delivery DSP (loudness, true peak, per-platform masters) for streaming services | Rust, C FFI, WebAssembly, Swift, Java (JNI), FFmpeg, fuzzing |
 
 ---
 
@@ -147,7 +149,7 @@ I turn coffee into code ☕ and problems into **99.8% uptime**.
 ### 📬 Let's Chat!
 
 <p>
-  <a href="https://www.linkedin.com/in/emmanuel-oire-704876220/">
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://x.com/YOUR-X-HANDLE">
